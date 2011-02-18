@@ -13,7 +13,7 @@ TODO
 
 The following items are on the TODO list:
 
-* Move from regex to YUI Compressor for CSS files.
+* Move from regex to YUI Compressor for CSS files (this means we can get rid of the `filetype` parameter).
 
 * Integrate some form of cache mechanism so that the YUI Compressor isn't being called on every single page view.
 
