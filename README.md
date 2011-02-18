@@ -26,4 +26,4 @@ It's worth noting that when running this code on an Apache server everything run
 
 It turns out that (for us any way, your usage may vary depending on your Windows set-up...) our server engineers had to allow read + execute permissions for a Plesk user `psacln` to the directory where Java was installed. AND they also enabled ASP.NET permissions for the inetpub directories.
 
-It took ages for them to figure it out, so if you do try and use this on a Windows server then hopefully some of this information may help you (if you do have any strange issues with the jar file generating an empty Array).
+It took ages for them to figure it out, so if you do try and use this on a Windows server then hopefully some of this information may help you.
