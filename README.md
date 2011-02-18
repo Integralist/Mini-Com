@@ -1,4 +1,4 @@
-[Integralist](http://www.integralist.co.uk/) - Stand.ard.iz.er
+[Integralist](http://www.integralist.co.uk/) - Mini-Com
 ================================
 
 Description
