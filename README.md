@@ -13,8 +13,6 @@ TODO
 
 The following items are on the TODO list:
 
-* Move from regex to YUI Compressor for CSS files.
-
 * Integrate some form of cache mechanism so that the YUI Compressor isn't being called on every single page view.
 
 * Clean up the API (some how?) as I personally feel Query String data is [fugliy](http://www.urbandictionary.com/define.php?term=fugly&defid=3859324) as hell.
