@@ -6,7 +6,7 @@ Description
 
 Mini-Com (short for 'minifier' and 'combiner') is a PHP script which takes in a list of comma separated filenames (without the extension) and then combines them into one file and minifies the results using [YUI Compressor](http://developer.yahoo.com/yui/compressor/).
 
-I had originally written a group of `Regular Expressions` for compressing the CSS code but I've now decided that as we're using YUI Compressor for the JavaScript it makes sense to just use it for the CSS as well (although this isn't implemented yet).
+I had originally written a group of `Regular Expressions` for compressing the CSS code but I've now decided that as we're using YUI Compressor for the JavaScript it makes sense to just use it for the CSS as well.
 
 TODO
 ----
